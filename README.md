@@ -1,7 +1,7 @@
 centos6
 ======
 
-CentOS 6 Scripts for VPS &amp; SSH Seller by Yuri Bhuana
+CentOS 6 Scripts for VPS &amp; by GREENZONESSH
 
 
 Autoscript Include:
@@ -45,11 +45,11 @@ Fail2Ban : [on]
 IPv6     : [off]
 Autolimit 2 bitvise per IP to all port (port 22, 143, 109, 110, 443, 1194, 7300 TCP/UDP)
 
-Script Modified by Yuri Bhuana (fb.com/youree82, 0858 1500 2021)
+Script Modified by GREENZONESSH
 Thanks to Original Creator Kang Arie & Mikodemos
 
 Log Instalasi --> /root/log-install.txt
 
-VPS AUTO REBOOT TIAP 6 JAM, SILAHKAN REBOOT VPS ANDA !
+Silahkan REBOOT VPS ANDA !!!!
 
 ===================================================
